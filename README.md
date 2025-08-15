@@ -16,6 +16,7 @@ After the installation the emulator can be run with the following command.
 ```
 ./GBAemulator <rom>
 ```
+
 ## Resources
     - [Pandocs](https://gbdev.io/pandocs/)
     - [Emulation Subreddit](https://www.reddit.com/r/emulation/)
