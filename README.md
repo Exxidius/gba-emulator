@@ -18,7 +18,8 @@ After the installation the emulator can be run with the following command.
 ```
 
 ## Resources
-    - [Pandocs](https://gbdev.io/pandocs/)
-    - [Emulation Subreddit](https://www.reddit.com/r/emulation/)
-    - [The Ultimate Gameboy Talk](https://www.youtube.com/watch?v=HyzD8pNlpwI)
++ [Pandocs](https://gbdev.io/pandocs/)
++ [Emulation Subreddit](https://www.reddit.com/r/emulation/)
++ [The Ultimate Gameboy Talk](https://www.youtube.com/watch?v=HyzD8pNlpwI)
+
 
