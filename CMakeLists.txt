@@ -17,6 +17,7 @@ set(
   src/imgui/imgui_draw.cpp
   src/imgui/imgui_tables.cpp
   src/imgui/imgui_widgets.cpp
+  src/imgui/imgui_demo.cpp
   src/imgui/imgui_impl_sdl3.cpp
   src/imgui/imgui_impl_sdlrenderer3.cpp
 )
