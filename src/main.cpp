@@ -72,9 +72,6 @@ int main(int, char**)
     ImGui_ImplSDL3_NewFrame();
     ImGui::NewFrame();
 
-    if (show_demo_window)
-      ImGui::ShowDemoWindow(&show_demo_window);
-
     {
       static float f = 0.0f;
       static int counter = 0;
