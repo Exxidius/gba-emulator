@@ -1,7 +1,7 @@
-cmake_minimum_required(VERSION 4.0)
+cmake_minimum_required(VERSION 3.19)
 
 project(
-  GBAemulator
+  GBCemulator
   VERSION 0.1
   LANGUAGES CXX
 )
@@ -24,5 +24,5 @@ set(
 
 include_directories(src)
 
-add_executable(GBAemulator ${SOURCES})
-target_link_libraries(GBAemulator PRIVATE SDL3::SDL3)
+add_executable(GBCemulator ${SOURCES})
+target_link_libraries(GBCemulator PRIVATE SDL3::SDL3)

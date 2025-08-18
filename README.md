@@ -1,5 +1,5 @@
-# GBA Emulator
-A GBA emulator (to be) written in C++.
+# GBC Emulator
+A GBC emulator (to be) written in C++.
 
 ## Installation
 To install the emulator run the following commands in the root directory of the emulator.
@@ -14,7 +14,7 @@ To clean the sourcetree from build files you can simply delete the build folder 
 ## Usage
 After the installation the emulator can be run with the following command.
 ```
-./GBAemulator <rom>
+./GBCemulator <rom>
 ```
 
 ## Resources
